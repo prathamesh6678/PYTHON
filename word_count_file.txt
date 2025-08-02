@@ -1,0 +1,2 @@
+This is a test file. A test file for counting words.
+The word 'test' appears here and a test again.
