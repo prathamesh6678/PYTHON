@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask Form Example</title>
+</head>
+<body>
+    <h1>Simple Form</h1>
+    <form method="POST" action="{{ url_for('handle_form') }}">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+        <input type="submit" value="Submit" aria-label="Submit the form">
+    </form>
+    {% if name %}
+        <h2>Submitted Data:</h2>
+        <p>Name: {{ name }}</p>
+        <p>Email: {{ email }}</p>
+    {% endif %}
+</body>
+</html>
