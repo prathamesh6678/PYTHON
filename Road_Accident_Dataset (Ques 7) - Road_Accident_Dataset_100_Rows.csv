@@ -1,0 +1,101 @@
+Accident ID,Date,Location,Accident Type,Vehicle Type,Weather Condition,Road Condition,Severity,Cause,Casualties
+AID0001,2024-01-01,Hyderabad,Overturn,Auto-Rickshaw,Clear,Dry,Moderate,Overtaking,0
+AID0002,2024-03-29,Mumbai,Overturn,Auto-Rickshaw,Foggy,Damaged,Moderate,Distracted Driving,0
+AID0003,2024-01-05,Mumbai,Overturn,Bicycle,Windy,Under Construction,Fatal,Overtaking,3
+AID0004,2024-06-02,Pune,Collision,Truck,Clear,Dry,Fatal,Brake Failure,4
+AID0005,2024-02-28,Bangalore,Animal Hit,Auto-Rickshaw,Clear,Damaged,Moderate,Weather,0
+AID0006,2024-04-17,Bangalore,Animal Hit,Car,Rainy,Damaged,Minor,Drunk Driving,4
+AID0007,2024-02-16,Delhi,Animal Hit,Car,Rainy,Dry,Minor,Speeding,2
+AID0008,2024-03-18,Hyderabad,Overturn,Car,Foggy,Wet,Moderate,Speeding,5
+AID0009,2024-05-13,Mumbai,Collision,Car,Windy,Under Construction,Minor,Weather,2
+AID0010,2024-01-16,Ahmedabad,Collision,Motorcycle,Clear,Under Construction,Severe,Speeding,5
+AID0011,2024-01-08,Pune,Object Hit,Auto-Rickshaw,Clear,Damaged,Fatal,Overtaking,0
+AID0012,2024-06-25,Ahmedabad,Pedestrian Hit,Car,Clear,Under Construction,Severe,Overtaking,3
+AID0013,2024-03-29,Bangalore,Pedestrian Hit,Bicycle,Rainy,Wet,Severe,Speeding,1
+AID0014,2024-04-02,Chennai,Overturn,Bus,Foggy,Dry,Severe,Drunk Driving,2
+AID0015,2024-03-27,Chennai,Pedestrian Hit,Motorcycle,Foggy,Under Construction,Moderate,Brake Failure,1
+AID0016,2024-05-19,Chennai,Overturn,Truck,Foggy,Damaged,Severe,Distracted Driving,5
+AID0017,2024-03-03,Hyderabad,Collision,Motorcycle,Windy,Under Construction,Moderate,Distracted Driving,4
+AID0018,2024-03-08,Kolkata,Overturn,Car,Windy,Under Construction,Moderate,Brake Failure,3
+AID0019,2024-06-26,Delhi,Overturn,Motorcycle,Rainy,Wet,Severe,Drunk Driving,4
+AID0020,2024-01-26,Delhi,Collision,Bicycle,Rainy,Damaged,Moderate,Brake Failure,5
+AID0021,2024-02-05,Pune,Animal Hit,Motorcycle,Windy,Damaged,Minor,Distracted Driving,5
+AID0022,2024-06-07,Hyderabad,Object Hit,Truck,Foggy,Under Construction,Fatal,Weather,4
+AID0023,2024-03-27,Chennai,Collision,Bicycle,Rainy,Under Construction,Severe,Weather,4
+AID0024,2024-02-24,Mumbai,Object Hit,Truck,Rainy,Dry,Moderate,Overtaking,0
+AID0025,2024-06-04,Delhi,Animal Hit,Motorcycle,Rainy,Damaged,Fatal,Drunk Driving,1
+AID0026,2024-05-30,Pune,Collision,Bus,Clear,Damaged,Moderate,Weather,0
+AID0027,2024-04-04,Hyderabad,Pedestrian Hit,Car,Windy,Wet,Fatal,Overtaking,0
+AID0028,2024-05-10,Hyderabad,Overturn,Bicycle,Foggy,Dry,Severe,Brake Failure,4
+AID0029,2024-03-02,Chennai,Animal Hit,Auto-Rickshaw,Rainy,Damaged,Severe,Weather,4
+AID0030,2024-04-16,Pune,Pedestrian Hit,Car,Foggy,Under Construction,Severe,Distracted Driving,0
+AID0031,2024-06-09,Kolkata,Object Hit,Motorcycle,Rainy,Wet,Severe,Overtaking,5
+AID0032,2024-02-25,Chennai,Pedestrian Hit,Auto-Rickshaw,Rainy,Damaged,Fatal,Drunk Driving,2
+AID0033,2024-06-24,Pune,Object Hit,Auto-Rickshaw,Windy,Damaged,Fatal,Distracted Driving,1
+AID0034,2024-04-21,Kolkata,Animal Hit,Bicycle,Clear,Under Construction,Minor,Drunk Driving,1
+AID0035,2024-01-02,Mumbai,Overturn,Truck,Clear,Wet,Severe,Speeding,3
+AID0036,2024-05-24,Kolkata,Animal Hit,Auto-Rickshaw,Clear,Wet,Moderate,Distracted Driving,4
+AID0037,2024-01-26,Ahmedabad,Object Hit,Motorcycle,Clear,Under Construction,Minor,Overtaking,5
+AID0038,2024-01-23,Bangalore,Overturn,Auto-Rickshaw,Windy,Under Construction,Severe,Speeding,0
+AID0039,2024-04-26,Pune,Animal Hit,Car,Foggy,Under Construction,Fatal,Speeding,2
+AID0040,2024-03-14,Hyderabad,Overturn,Auto-Rickshaw,Rainy,Damaged,Fatal,Weather,1
+AID0041,2024-01-10,Hyderabad,Animal Hit,Auto-Rickshaw,Clear,Wet,Minor,Brake Failure,4
+AID0042,2024-04-28,Mumbai,Collision,Car,Foggy,Under Construction,Minor,Speeding,2
+AID0043,2024-01-23,Bangalore,Overturn,Bicycle,Windy,Under Construction,Minor,Brake Failure,2
+AID0044,2024-03-19,Hyderabad,Animal Hit,Car,Windy,Wet,Fatal,Weather,4
+AID0045,2024-03-20,Hyderabad,Overturn,Bus,Clear,Wet,Severe,Brake Failure,3
+AID0046,2024-05-05,Mumbai,Animal Hit,Motorcycle,Rainy,Dry,Minor,Speeding,0
+AID0047,2024-04-20,Hyderabad,Overturn,Car,Foggy,Dry,Severe,Overtaking,1
+AID0048,2024-06-23,Chennai,Animal Hit,Motorcycle,Rainy,Wet,Fatal,Drunk Driving,0
+AID0049,2024-03-18,Kolkata,Collision,Motorcycle,Clear,Dry,Moderate,Weather,5
+AID0050,2024-05-24,Bangalore,Pedestrian Hit,Truck,Foggy,Damaged,Minor,Speeding,2
+AID0051,2024-04-01,Ahmedabad,Collision,Bicycle,Windy,Dry,Moderate,Drunk Driving,0
+AID0052,2024-02-25,Delhi,Animal Hit,Truck,Foggy,Damaged,Severe,Weather,2
+AID0053,2024-01-20,Kolkata,Pedestrian Hit,Car,Windy,Under Construction,Moderate,Drunk Driving,3
+AID0054,2024-02-23,Hyderabad,Animal Hit,Truck,Windy,Dry,Severe,Drunk Driving,5
+AID0055,2024-05-21,Hyderabad,Overturn,Auto-Rickshaw,Clear,Damaged,Moderate,Brake Failure,4
+AID0056,2024-03-23,Bangalore,Overturn,Bus,Foggy,Under Construction,Moderate,Drunk Driving,3
+AID0057,2024-05-21,Bangalore,Overturn,Bus,Windy,Under Construction,Minor,Speeding,5
+AID0058,2024-03-16,Hyderabad,Collision,Auto-Rickshaw,Foggy,Wet,Minor,Brake Failure,2
+AID0059,2024-01-26,Mumbai,Collision,Car,Foggy,Under Construction,Fatal,Speeding,4
+AID0060,2024-05-14,Pune,Overturn,Car,Rainy,Dry,Fatal,Drunk Driving,2
+AID0061,2024-05-11,Hyderabad,Animal Hit,Bicycle,Foggy,Under Construction,Fatal,Brake Failure,5
+AID0062,2024-03-04,Mumbai,Collision,Motorcycle,Foggy,Damaged,Minor,Speeding,5
+AID0063,2024-06-10,Chennai,Animal Hit,Auto-Rickshaw,Clear,Under Construction,Severe,Brake Failure,1
+AID0064,2024-01-10,Kolkata,Overturn,Bus,Rainy,Under Construction,Severe,Speeding,4
+AID0065,2024-03-09,Pune,Pedestrian Hit,Auto-Rickshaw,Windy,Dry,Minor,Distracted Driving,1
+AID0066,2024-03-16,Ahmedabad,Overturn,Motorcycle,Windy,Wet,Minor,Overtaking,2
+AID0067,2024-02-15,Bangalore,Collision,Bicycle,Clear,Wet,Fatal,Speeding,1
+AID0068,2024-05-05,Bangalore,Overturn,Bicycle,Windy,Damaged,Moderate,Drunk Driving,3
+AID0069,2024-04-26,Mumbai,Animal Hit,Motorcycle,Rainy,Under Construction,Moderate,Overtaking,0
+AID0070,2024-01-11,Kolkata,Animal Hit,Bicycle,Foggy,Damaged,Minor,Speeding,4
+AID0071,2024-05-18,Chennai,Object Hit,Car,Clear,Dry,Minor,Overtaking,2
+AID0072,2024-06-05,Mumbai,Animal Hit,Bus,Rainy,Dry,Severe,Drunk Driving,4
+AID0073,2024-03-01,Bangalore,Animal Hit,Motorcycle,Windy,Dry,Minor,Weather,1
+AID0074,2024-06-17,Bangalore,Animal Hit,Car,Clear,Wet,Fatal,Drunk Driving,3
+AID0075,2024-04-17,Kolkata,Pedestrian Hit,Bus,Rainy,Damaged,Moderate,Distracted Driving,4
+AID0076,2024-05-25,Bangalore,Object Hit,Truck,Rainy,Dry,Fatal,Weather,4
+AID0077,2024-02-08,Chennai,Object Hit,Truck,Clear,Under Construction,Minor,Brake Failure,2
+AID0078,2024-03-31,Chennai,Pedestrian Hit,Car,Clear,Damaged,Fatal,Overtaking,0
+AID0079,2024-02-07,Mumbai,Collision,Bus,Clear,Wet,Minor,Overtaking,5
+AID0080,2024-03-24,Ahmedabad,Overturn,Auto-Rickshaw,Rainy,Dry,Minor,Distracted Driving,4
+AID0081,2024-01-29,Delhi,Collision,Car,Clear,Dry,Severe,Distracted Driving,0
+AID0082,2024-04-22,Ahmedabad,Collision,Bus,Windy,Wet,Fatal,Overtaking,3
+AID0083,2024-05-12,Mumbai,Object Hit,Motorcycle,Windy,Damaged,Moderate,Weather,4
+AID0084,2024-01-28,Pune,Overturn,Motorcycle,Rainy,Under Construction,Severe,Brake Failure,2
+AID0085,2024-01-17,Delhi,Animal Hit,Truck,Foggy,Wet,Severe,Speeding,3
+AID0086,2024-01-11,Kolkata,Animal Hit,Car,Clear,Dry,Severe,Drunk Driving,2
+AID0087,2024-06-14,Ahmedabad,Animal Hit,Motorcycle,Windy,Wet,Moderate,Brake Failure,1
+AID0088,2024-03-22,Hyderabad,Object Hit,Bicycle,Windy,Dry,Moderate,Weather,2
+AID0089,2024-06-02,Chennai,Object Hit,Auto-Rickshaw,Foggy,Dry,Minor,Speeding,0
+AID0090,2024-01-03,Mumbai,Collision,Car,Clear,Dry,Severe,Overtaking,1
+AID0091,2024-06-15,Kolkata,Pedestrian Hit,Auto-Rickshaw,Foggy,Under Construction,Fatal,Speeding,4
+AID0092,2024-03-18,Hyderabad,Collision,Bus,Clear,Damaged,Fatal,Distracted Driving,1
+AID0093,2024-04-07,Pune,Pedestrian Hit,Motorcycle,Foggy,Wet,Severe,Distracted Driving,5
+AID0094,2024-06-13,Kolkata,Animal Hit,Bicycle,Clear,Damaged,Fatal,Distracted Driving,0
+AID0095,2024-02-20,Mumbai,Collision,Bicycle,Clear,Damaged,Minor,Drunk Driving,3
+AID0096,2024-01-22,Bangalore,Animal Hit,Car,Clear,Under Construction,Minor,Drunk Driving,5
+AID0097,2024-04-21,Delhi,Object Hit,Truck,Windy,Damaged,Fatal,Drunk Driving,3
+AID0098,2024-04-08,Delhi,Pedestrian Hit,Motorcycle,Windy,Wet,Severe,Speeding,0
+AID0099,2024-06-21,Kolkata,Overturn,Auto-Rickshaw,Clear,Wet,Minor,Drunk Driving,4
+AID0100,2024-01-26,Ahmedabad,Pedestrian Hit,Motorcycle,Windy,Damaged,Severe,Overtaking,2

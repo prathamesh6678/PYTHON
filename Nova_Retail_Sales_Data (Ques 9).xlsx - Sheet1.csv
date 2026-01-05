@@ -1,0 +1,50 @@
+Order ID,Date,Customer Name,Region,Product Category,Product Name,Quantity,Unit Price (?),Total Sales (?),Profit Margin (%),Customer Age,Payment Mode
+1001,2025-01-01,Rahul Sharma,North India,Electronics,Smartwatch,10,999,999,998001,28,Credit Card
+1003,2025-01-03,Amit Verma,West India,Home Decor,Wall Clock,3,1999,5997,25,40,COD
+1004,2025-01-04,Sneha Kapoor,East India,Electronics,Bluetooth Speaker,6,2499,9996,30,24,NetBanking
+1005,2025-01-05,Rajesh Kumar,North India,Fashion,Jeans,8,2999,14995,18,31,Credit Card
+1006,2025-01-06,Priya Singh,South India,Home Decor,Laptop,3,999,4995,15,29,UPI
+1007,2025-01-07,Karan Malhotra,West India,Electronics,Sofa Set,9,1499,2998,20,45,COD
+1008,2025-01-08,Neha Gupta,East India,Fashion,Dress,5,1999,5997,25,32,NetBanking
+1009,2025-01-09,Vikram Patel,North India,Home Decor,Smartphone,2,2499,19992,30,27,Credit Card
+10010,2025-01-10,Ayesha Kapoor,South India,Electronics,Dining Table Set,7,2999,14995,18,39,UPI
+10011,2025-01-11,Amitabh Verma,West India,Fashion,Leather Jacket,10,999,999,15,28,COD
+10012,2025-01-12,Sneha Gupta,East India,Home Decor,Headphones,3,1499,11992,20,35,NetBanking
+10013,2025-01-13,Nikhil Kumar,North India,Electronics,Floor Lamp,3,1999,5997,25,40,Credit Card
+10014,2025-01-14,Meera Sharma,South India,Fashion,Sneakers,6,2499,9996,30,24,UPI
+10015,2025-01-15,Aditya Verma,West India,Home Decor,Gaming Console,6,2999,14995,18,31,COD
+10016,2025-01-16,Rohan Malhotra,East India,Electronics,Drone Camera,10,999,5994,15,29,NetBanking
+10017,2025-01-17,Neha Kapoor,North India,Fashion,TV,4,1499,2998,20,45,Credit Card
+10018,2025-01-18,Kunal Singh,South India,Home Decor,Smart Glasses,5,1999,13993,25,32,UPI
+10019,2025-01-19,Alisha Roy,West India,Electronics,Recliner Sofa,7,2499,9996,30,27,COD
+10020,2025-01-20,Tarun Mishra,East India,Fashion,Washing Machine,6,2999,14995,18,39,NetBanking
+10021,2025-01-21,Pooja Nair,North India,Home Decor,Earbuds,7,999,999,15,28,Credit Card
+10022,2025-01-22,Manish Tiwari,South India,Electronics,Formal Shirt,3,1499,17988,20,35,UPI
+10023,2025-01-23,Shreya Desai,West India,Fashion,Coffee Table,4,1999,5997,25,40,COD
+10024,2025-01-24,Kabir Joshi,East India,Home Decor,Air Conditioner,10,2499,9996,30,24,NetBanking
+10025,2025-01-25,Anita Yadav,North India,Electronics,Running Shoes,8,2999,14995,18,31,Credit Card
+10026,2025-01-26,Vivek Chopra,South India,Fashion,Tablet,4,999,2997,15,29,UPI
+10027,2025-01-27,Simran Kaur,West India,Home Decor,Neckband,3,1499,2998,20,45,COD
+10028,2025-01-28,Nitin Bansal,East India,Electronics,Bookshelf,6,1999,5997,25,32,NetBanking
+10029,2025-01-29,Rekha Reddy,North India,Fashion,Microwave,7,2499,9996,30,27,Credit Card
+10030,2025-01-30,Gautam Saxena,South India,Home Decor,Backpack,6,2999,26991,18,39,UPI
+10031,2025-01-31,Preeti Rawat,West India,Electronics,Gaming Mouse,3,999,999,15,28,COD
+10032,2025-02-01,Ashok Sharma,East India,Fashion,Leather Wallet,3,1499,2998,20,35,NetBanking
+10033,2025-02-02,Divya Nair,North India,Home Decor,Ceiling Fan,7,1999,5997,25,40,Credit Card
+10034,2025-02-03,Kiran Kapoor,South India,Electronics,Sports Watch,10,2499,9996,30,24,UPI
+10035,2025-02-04,Yash Malhotra,West India,Fashion,Router,2,2999,14995,18,31,COD
+10036,2025-02-05,Anurag Verma,East India,Home Decor,Smart Bulb,6,999,999,15,29,NetBanking
+10037,2025-02-06,Ritika Shah,North India,Electronics,Office Chair,7,1499,2998,20,45,Credit Card
+10038,2025-02-07,Tanmay Goel,South India,Fashion,Blender,10,1999,3998,25,32,UPI
+10039,2025-02-08,Varun Singh,West India,Home Decor,Perfume,7,2499,9996,30,27,COD
+10040,2025-02-09,Payal Mehta,East India,Electronics,Power Bank,7,2999,8997,18,39,NetBanking
+10041,2025-02-10,Snehal Desai,North India,Fashion,LED Bulb,5,999,999,15,28,Credit Card
+10042,2025-02-11,Ajay Patel,South India,Home Decor,Gym Gloves,8,1499,2998,20,35,UPI
+10043,2025-02-12,Kritika Gupta,West India,Electronics,Wall Art,1,1999,5997,25,40,COD
+10044,2025-02-13,Dinesh Nair,East India,Fashion,Printer,6,2499,9996,30,24,NetBanking
+10045,2025-02-14,Priyanka Rao,North India,Home Decor,Sunglasses,6,2999,14995,18,31,Credit Card
+10046,2025-02-15,Harsh Malhotra,South India,Electronics,Speaker,8,999,1998,15,29,UPI
+10047,2025-02-16,Lavanya Kapoor,West India,Fashion,Trolley Bag,4,1499,2998,20,45,COD
+10048,2025-02-17,Aniket Shah,East India,Home Decor,Curtains,6,1999,5997,25,32,NetBanking
+10049,2025-02-18,Niharika Joshi,North India,Electronics,Induction Stove,9,2499,22491,30,27,Credit Card
+10050,2025-02-19,Ravi Sharma,South India,Fashion,Travel Pillow,8,2999,14995,18,39,UPI
