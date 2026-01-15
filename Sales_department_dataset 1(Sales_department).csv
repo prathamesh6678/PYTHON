@@ -1,0 +1,101 @@
+Customer ID,Region,Country,State,Phone Number,Category,Product,Price,Units Sold,Profit,Mode of Payment,Revenue,Revenue Label,Profit %
+CUST1000,West,India,Karnataka,9515759149,Clothing,Shirt,2439.81,5,3559.55,Credit Card,12199.05,High,29.18
+CUST1001,West,India,Karnataka,9720381947,Furniture,Table,1621.43,13,4029.57,Net Banking,21078.59,High,19.12
+CUST1002,South,India,West Bengal,9483465530,Clothing,T-shirt,1363.73,1,362.2,Net Banking,1363.73,Low,26.56
+CUST1003,South,India,West Bengal,9350165589,Furniture,Sofa,1172.93,5,1542.65,Cash,5864.65,Medium,26.30
+CUST1004,South,India,Karnataka,9621991901,Clothing,Jeans,2457.56,13,6972.71,Credit Card,31948.28,High,21.82
+CUST1005,South,India,West Bengal,9734105442,Clothing,Dress,2661.44,7,2581.67,Net Banking,18630.08,High,13.86
+CUST1006,East,India,Tamil Nadu,9117390999,Clothing,T-shirt,1400.82,6,994.44,UPI,8404.92,Medium,11.83
+CUST1007,West,India,Karnataka,9513032833,Furniture,Chair,416.18,3,327.88,Net Banking,1248.54,Low,26.26
+CUST1008,South,India,Maharashtra,95543976868,Furniture,Chair,1290.47,6,1045.43,Net Banking,7742.82,Medium,13.50
+CUST1009,West,India,Gujarat,9866250123,Clothing,T-shirt,2519.94,15,11123.31,Cash,37799.1,High,29.43
+CUST1010,South,India,Rajasthan,9884314044,Clothing,T-shirt,2814.97,1,716.15,Net Banking,2814.97,Low,25.44
+CUST1011,East,India,West Bengal,9192128284,Clothing,Jeans,841.72,13,2130.18,UPI,10942.36,High,19.47
+CUST1012,North,India,West Bengal,9731590483,Electronics,Tablet,1169.28,2,273.95,Credit Card,2338.56,Low,11.71
+CUST1013,West,India,Karnataka,9245312903,Furniture,Bookshelf,2320.03,3,1260.55,Credit Card,6960.09,Medium,18.11
+CUST1014,North,India,West Bengal,9587137236,Clothing,T-shirt,1780.66,11,2826.93,UPI,19587.26,High,14.43
+CUST1015,North,India,Tamil Nadu,9161819590,Electronics,Monitor,2672,15,4719.91,Cash,40080,High,11.78
+CUST1016,South,India,West Bengal,9551484924,Clothing,Jacket,824.49,9,1403.14,Debit Card,7420.41,Medium,18.91
+CUST1017,East,India,Uttar Pradesh,91682255459,Electronics,Headphones,2896.96,7,3528.3,Net Banking,20278.72,High,17.40
+CUST1018,South,India,Maharashtra,9277023818,Electronics,Monitor,1235.32,9,2542.07,Debit Card,11117.88,High,22.86
+CUST1019,East,India,Gujarat,9670448490,Furniture,Table,2168.33,3,1394.93,Cash,6504.99,Medium,21.44
+CUST1020,East,India,West Bengal,9123788207,Clothing,Jacket,2654.54,5,3308.52,Debit Card,13272.7,High,24.93
+CUST1021,West,India,Tamil Nadu,99831923457,Electronics,Laptop,1313.77,7,2435.55,Cash,9196.39,Medium,26.48
+CUST1022,East,India,Gujarat,9822358874,Electronics,Headphones,1602.24,13,3082.85,Debit Card,20829.12,High,14.80
+CUST1023,West,India,Uttar Pradesh,9497595031,Furniture,Sofa,592.33,4,539.64,Net Banking,2369.32,Low,22.78
+CUST1024,South,India,Rajasthan,9781615192,Electronics,Monitor,589.14,8,1252.56,Cash,4713.12,Low,26.58
+CUST1025,North,India,Uttar Pradesh,9310431691,Furniture,Chair,2354.6,4,2575.43,Credit Card,9418.4,Medium,27.34
+CUST1026,East,India,Uttar Pradesh,9375633062,Electronics,Smartphone,1920.55,6,2254.59,Credit Card,11523.3,High,19.57
+CUST1027,East,India,West Bengal,9958467371,Clothing,Dress,1086.41,7,2066.76,Credit Card,7604.87,Medium,27.18
+CUST1028,East,India,West Bengal,9485913642,Furniture,Bookshelf,1181.07,13,3821.07,Cash,15353.91,High,24.89
+CUST1029,East,India,Uttar Pradesh,9942727052,Furniture,Cupboard,2521.2,8,6046.68,Credit Card,20169.6,High,29.98
+CUST1030,South,India,Gujarat,9164209990,Clothing,Jeans,1741.71,15,4026.14,UPI,26125.65,High,15.41
+CUST1031,South,India,Uttar Pradesh,9972130283,Furniture,Sofa,1691.18,9,3286.83,Net Banking,15220.62,High,21.59
+CUST1032,South,India,Uttar Pradesh,9305312346,Clothing,Jacket,2430.49,1,538.34,Debit Card,2430.49,Low,22.15
+CUST1033,West,India,Uttar Pradesh,9403336927,Clothing,Dress,1937.5,10,2548.08,UPI,19375,High,13.15
+CUST1034,North,India,Karnataka,9209432112,Clothing,T-shirt,2848.61,15,6188.69,Debit Card,42729.15,High,14.48
+CUST1035,North,India,Maharashtra,92886736565,Furniture,Cupboard,537.01,15,848.33,Debit Card,8055.15,Medium,10.53
+CUST1036,East,India,Karnataka,9696039067,Furniture,Sofa,2052.79,1,296.79,Net Banking,2052.79,Low,14.46
+CUST1037,East,India,Maharashtra,9729755086,Clothing,Jacket,1708.1,3,897.22,Credit Card,5124.3,Medium,17.51
+CUST1038,East,India,Uttar Pradesh,9291717779,Electronics,Headphones,1616.55,14,6621.29,Credit Card,22631.7,High,29.26
+CUST1039,East,India,Karnataka,9596984707,Clothing,Jeans,1774.62,7,3378.16,Credit Card,12422.34,High,27.19
+CUST1040,South,India,Gujarat,9621477109,Electronics,Smartphone,644.14,12,988.52,Cash,7729.68,Medium,12.79
+CUST1041,South,India,West Bengal,9813614929,Furniture,Sofa,1767.47,13,3353.4,UPI,22977.11,High,14.59
+CUST1042,East,India,Tamil Nadu,9314930259,Clothing,Dress,2506.6,11,8011.16,UPI,27572.6,High,29.05
+CUST1043,West,India,West Bengal,93262535688,Electronics,Tablet,727.87,2,385.93,Credit Card,1455.74,Low,26.51
+CUST1044,West,India,Uttar Pradesh,9922473225,Furniture,Sofa,2509.39,4,2607.48,Credit Card,10037.56,High,25.98
+CUST1045,North,India,Rajasthan,9435049619,Electronics,Monitor,254.27,5,247.89,Net Banking,1271.35,Low,19.50
+CUST1046,East,India,Uttar Pradesh,9139717689,Electronics,Tablet,1104.23,11,1883.37,Credit Card,12146.53,High,15.51
+CUST1047,South,India,West Bengal,9873282041,Electronics,Laptop,861.53,3,482.01,Debit Card,2584.59,Low,18.65
+CUST1048,North,India,West Bengal,9520705759,Clothing,T-shirt,940.76,4,842.47,Debit Card,3763.04,Low,22.39
+CUST1049,East,India,West Bengal,9648648568,Clothing,T-shirt,1505.5,11,3985.19,Debit Card,16560.5,High,24.06
+CUST1050,West,India,Uttar Pradesh,9416435713,Clothing,Jeans,1477.49,11,2428.98,Credit Card,16252.39,High,14.95
+CUST1051,East,India,Rajasthan,9211381294,Furniture,Chair,704.64,2,163.57,UPI,1409.28,Low,11.61
+CUST1052,North,India,West Bengal,9791244114,Furniture,Cupboard,2030.2,13,3695.03,Net Banking,26392.6,High,14.00
+CUST1053,West,India,Rajasthan,9194670146,Clothing,Shirt,1822.28,4,1973.2,Cash,7289.12,Medium,27.07
+CUST1054,North,India,Maharashtra,9519275644,Furniture,Sofa,600.18,11,1525.57,Credit Card,6601.98,Medium,23.11
+CUST1055,South,India,Maharashtra,9520013561,Clothing,T-shirt,2330.36,7,3532.26,Debit Card,16312.52,High,21.65
+CUST1056,North,India,Gujarat,95989895092,Electronics,Headphones,1084.67,13,4140.14,Cash,14100.71,High,29.36
+CUST1057,East,India,Uttar Pradesh,9499862542,Furniture,Cupboard,1893.55,12,3204.64,Net Banking,22722.6,High,14.10
+CUST1058,North,India,Gujarat,9724136290,Furniture,Chair,1747.22,6,2678.22,Cash,10483.32,High,25.55
+CUST1059,East,India,Gujarat,9321909198,Furniture,Bookshelf,287.31,8,381.56,Debit Card,2298.48,Low,16.60
+CUST1060,North,India,Maharashtra,9760693305,Clothing,Shirt,1700.05,2,383.92,UPI,3400.1,Low,11.29
+CUST1061,East,India,Gujarat,9658575570,Furniture,Bookshelf,1180.31,7,847.73,UPI,8262.17,Medium,10.26
+CUST1062,South,India,Gujarat,9950273824,Furniture,Cupboard,653.35,4,345.46,Credit Card,2613.4,Low,13.22
+CUST1063,South,India,Tamil Nadu,9898816813,Electronics,Laptop,1881.74,4,1363.83,Debit Card,7526.96,Medium,18.12
+CUST1064,North,India,Rajasthan,9571594565,Furniture,Table,1206.35,15,2801.82,UPI,18095.25,High,15.48
+CUST1065,South,India,Maharashtra,9684352160,Clothing,Jacket,1849.95,5,2111.02,Debit Card,9249.75,Medium,22.82
+CUST1066,West,India,West Bengal,9845713875,Electronics,Tablet,1896.1,5,2676.46,Debit Card,9480.5,Medium,28.23
+CUST1067,South,India,Tamil Nadu,85,Furniture,Bookshelf,1799.6,6,1551.79,Cash,10797.6,High,14.37
+CUST1068,North,India,Karnataka,9304184751,Furniture,Cupboard,1330.26,2,669.54,Credit Card,2660.52,Low,25.17
+CUST1069,North,India,Rajasthan,9141039856,Electronics,Smartphone,322.57,13,684.45,Debit Card,4193.41,Low,16.32
+CUST1070,East,India,Tamil Nadu,9640589740,Electronics,Tablet,1510.41,1,434.79,Net Banking,1510.41,Low,28.79
+CUST1071,South,India,Karnataka,9406517796,Clothing,Dress,1085.52,4,749.57,Credit Card,4342.08,Low,17.26
+CUST1072,South,India,Maharashtra,9606169051,Furniture,Table,1441.79,14,3929.03,Debit Card,20185.06,High,19.47
+CUST1073,North,India,Rajasthan,9350461925,Furniture,Cupboard,686.64,8,878.07,Credit Card,5493.12,Medium,15.98
+CUST1074,West,India,West Bengal,9996467468,Clothing,Dress,2830.64,6,1830.75,Credit Card,16983.84,High,10.78
+CUST1075,West,India,Rajasthan,9128345710,Electronics,Headphones,2619.08,6,4245.23,Net Banking,15714.48,High,27.01
+CUST1076,East,India,Gujarat,9392055351,Clothing,Jeans,503.93,11,1183.48,Cash,5543.23,Medium,21.35
+CUST1077,South,India,Tamil Nadu,9980141994,Furniture,Bookshelf,467.71,12,1223.23,Credit Card,5612.52,Medium,21.79
+CUST1078,West,India,Maharashtra,9403999543,Furniture,Chair,2307.34,14,3571.15,Debit Card,32302.76,High,11.06
+CUST1079,North,India,Uttar Pradesh,9164427200,Electronics,Tablet,1513.57,14,5761.18,Credit Card,21189.98,High,27.19
+CUST1080,North,India,Maharashtra,858947,Furniture,Cupboard,2213.45,3,867.33,Debit Card,6640.35,Medium,13.06
+CUST1081,South,India,Tamil Nadu,9789825611,Clothing,Dress,384.21,5,354.16,Debit Card,1921.05,Low,18.44
+CUST1082,East,India,Maharashtra,9371462183,Electronics,Headphones,498.41,7,435.36,UPI,3488.87,Low,12.48
+CUST1083,North,India,Maharashtra,9444893207,Clothing,Dress,1599.24,10,4368.75,UPI,15992.4,High,27.32
+CUST1084,West,India,Rajasthan,9339358166,Furniture,Sofa,962.07,9,905.89,UPI,8658.63,Medium,10.46
+CUST1085,West,India,West Bengal,9119201960,Furniture,Bookshelf,1673.22,7,1935.04,Debit Card,11712.54,High,16.52
+CUST1086,West,India,Tamil Nadu,9161700373,Clothing,T-shirt,791.24,4,366.17,UPI,3164.96,Low,11.57
+CUST1087,South,India,Uttar Pradesh,9242580997,Clothing,Jeans,1210.86,3,698.75,UPI,3632.58,Low,19.24
+CUST1088,North,India,Gujarat,9370714466,Clothing,T-shirt,619.57,7,562.75,UPI,4336.99,Low,12.98
+CUST1089,West,India,Maharashtra,9427647839,Electronics,Monitor,308.5,15,802.96,Credit Card,4627.5,Low,17.35
+CUST1090,East,India,Maharashtra,9942075195,Clothing,Dress,1853.37,5,1661.2,Credit Card,9266.85,Medium,17.93
+CUST1091,South,India,Rajasthan,9857569233,Clothing,Jacket,2501.48,6,4142.52,Net Banking,15008.88,High,27.60
+CUST1092,South,India,Karnataka,9944969047,Electronics,Laptop,2596.13,5,1453.33,Net Banking,12980.65,High,11.20
+CUST1093,West,India,West Bengal,56428436,Electronics,Headphones,2209.52,6,3760.49,Net Banking,13257.12,High,28.37
+CUST1094,East,India,Gujarat,9705241364,Furniture,Sofa,458.7,7,839.97,Net Banking,3210.9,Low,26.16
+CUST1095,East,India,Karnataka,9245776255,Clothing,Jeans,833.16,12,2135.63,Net Banking,9997.92,Medium,21.36
+CUST1096,East,India,Uttar Pradesh,9881212856,Clothing,Jeans,238.37,13,586.94,Net Banking,3098.81,Low,18.94
+CUST1097,West,India,Gujarat,9916091858,Clothing,Dress,820.05,3,419.41,UPI,2460.15,Low,17.05
+CUST1098,North,India,Karnataka,9425191872,Electronics,Headphones,2716.33,8,5513.14,Net Banking,21730.64,High,25.37
+CUST1099,North,India,Uttar Pradesh,9459337548,Clothing,Jacket,1918.81,1,442.75,Cash,1918.81,Low,23.07
